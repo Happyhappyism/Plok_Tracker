@@ -1,2 +1,2 @@
 # Plok Tracker
-Plok Poptracker Pack
+Poptracker pack for Plok Archipelago
