@@ -1,0 +1,296 @@
+[
+  {
+    "name":"Beach",
+    "access_rules":[
+      "@Cotton Island"
+    ],
+    "map_locations":[
+      {
+        "map":"Cotton Island",
+        "x":275,
+        "y":135
+      }
+    ],
+    "sections":[
+      {
+        "name":"CI - Beach Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      },
+      {
+        "name":"CI - Beach Warp",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/warpclosed.png",
+        "chest_opened_img":"images/chest/warpopen.png",
+        "access_rules":[
+          "Helicopter,HealthUp"
+        ]
+      },
+      {
+        "name":"CI - Beach Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Bridge",
+    "access_rules":[
+      "@Cotton Island"
+    ],
+    "map_locations":[
+      {
+        "map":"Cotton Island",
+        "x":225,
+        "y":125
+      }
+    ],
+    "sections":[
+      {
+        "name":"CI - Bridge Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      },
+      {
+        "name":"CI - Bridge Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      },
+      {
+        "name":"CI - Bridge Plocky Gift",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/giftclosed.png",
+        "chest_opened_img":"images/chest/giftopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Columns",
+    "access_rules":[
+      "@Cotton Island"
+    ],
+    "map_locations":[
+      {
+        "map":"Cotton Island",
+        "x":210,
+        "y":75
+      }
+    ],
+    "sections":[
+      {
+        "name":"CI - Columns Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      },
+      {
+        "name":"CI - Columns Warp",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/warpclosed.png",
+        "chest_opened_img":"images/chest/warpopen.png",
+        "access_rules":[
+          "Motorcycle"
+        ]
+      },
+      {
+        "name":"CI - Columns Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Log Falls",
+    "access_rules":[
+      "@Cotton Island"
+    ],
+    "map_locations":[
+      {
+        "map":"Cotton Island",
+        "x":145,
+        "y":90
+      }
+    ],
+    "sections":[
+      {
+        "name":"CI - Log Falls Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png",
+        "access_rules":[
+          "Spin Jump"
+        ]
+      },
+      {
+        "name":"CI - Log Falls Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png",
+        "access_rules":[
+          "Spin Jump"
+        ]
+      },
+      {
+        "name":"CI - Log Falls Squire Gift",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/giftclosed.png",
+        "chest_opened_img":"images/chest/giftopen.png",
+        "access_rules":[
+          "Spin Jump"
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Rickety Bridge",
+    "access_rules":[
+      "@Cotton Island"
+    ],
+    "map_locations":[
+      {
+        "map":"Cotton Island",
+        "x":95,
+        "y":105
+      }
+    ],
+    "sections":[
+      {
+        "name":"CI - Rickety Bridge Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png",
+        "access_rules":[
+          "Spin Jump"
+        ]
+      },
+      {
+        "name":"CI - Rickety Bridge Warp",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/warpclosed.png",
+        "chest_opened_img":"images/chest/warpopen.png",
+        "access_rules":[
+          "Jet Booster,Spin Jump"
+        ]
+      },
+      {
+        "name":"CI - Rickety Bridge Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png",
+        "access_rules":[
+          "Spin Jump"
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Crazy Cradles",
+    "access_rules":[
+      "@Cotton Island"
+    ],
+    "map_locations":[
+      {
+        "map":"Cotton Island",
+        "x":160,
+        "y":125
+      }
+    ],
+    "sections":[
+      {
+        "name":"CI - Crazy Cradles Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png",
+        "access_rules":[
+          "Spin Jump"
+        ]
+      },
+      {
+        "name":"CI - Crazy Cradles Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      },
+      {
+        "name":"CI - Crazy Cradles Flamethrower Gift",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/giftclosed.png",
+        "chest_opened_img":"images/chest/giftopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Blind Leap",
+    "access_rules":[
+      "@Cotton Island"
+    ],
+    "map_locations":[
+      {
+        "map":"Cotton Island",
+        "x":195,
+        "y":150
+      }
+    ],
+    "sections":[
+      {
+        "name":"CI - Blind Leap Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png",
+        "access_rules":[
+          "Spin Jump"
+        ]
+      },
+      {
+        "name":"CI - Blind Leap Warp",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/warpclosed.png",
+        "chest_opened_img":"images/chest/warpopen.png",
+        "access_rules":[
+          "Unicycle"
+        ]
+      },
+      {
+        "name":"CI - Blind Leap Spire Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png",
+        "access_rules":[
+          "Spin Jump"
+        ]
+      },
+      {
+        "name":"CI - Blind Leap Sky Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      }
+    ]
+  },
+  {
+    "name":"CI Bobbins Bros",
+    "access_rules":[
+      "@Cotton Island"
+    ],
+    "map_locations":[
+      {
+        "map":"Cotton Island",
+        "x":130,
+        "y":180
+      }
+    ],
+    "sections":[
+      {
+        "name":"CI - Bobbins Bros Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/bossclosed.png",
+        "chest_opened_img":"images/chest/bossopen.png"
+      }
+    ]
+  }
+]

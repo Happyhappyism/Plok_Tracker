@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Cotton Island",
+    "location_size": 8,
+    "location_border_thickness": 1,
+    "img": "images/maps/cottonisland.png"
+  },
+  {
+    "name": "Akrillic",
+    "location_size": 8,
+    "location_border_thickness": 1,
+    "img": "images/maps/akrillic.png"
+  },
+  {
+    "name": "Legacy Island",
+    "location_size": 8,
+    "location_border_thickness": 1,
+    "img": "images/maps/legacyisland.png"
+  },
+  {
+    "name": "Flea Pit",
+    "location_size": 8,
+    "location_border_thickness": 1,
+    "img": "images/maps/fleapit.png"
+  },
+]

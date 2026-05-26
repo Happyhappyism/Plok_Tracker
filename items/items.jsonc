@@ -1,0 +1,404 @@
+[
+  {
+    "name":"Spin Jump",
+    "type":"toggle",
+    "img":"images/items/spinjump.png",
+    "codes":"Spin Jump"
+  },
+  {
+    "name":"Amulet",
+    "type":"toggle",
+    "img":"images/items/amulet.png",
+    "codes":"Amulet"
+  },
+  {
+    "name":"Limb",
+    "type": "consumable",
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "img":"images/items/limb.png",
+    "codes":"Limb"
+  },
+  {
+    "name":"HealthUp",
+    "type": "consumable",
+    "max_quantity": 5,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "img":"images/items/healthup.png",
+    "codes":"HealthUp"
+  },
+  {
+    "name":"Hornet Capacity",
+	"type": "consumable",
+    "max_quantity": 4,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "img":"images/items/hornetcapacity.png",
+    "codes":"Hornet Capacity"
+  },
+  {
+    "name":"Shell Capacity",
+	"type": "consumable",
+    "img": "images/items/AdokBomb.png",
+    "max_quantity": 9,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "img":"images/items/shellcapacity.png",
+    "codes":"Shell Capacity"
+  },
+  {
+    "name":"Plok Flag",
+    "type":"toggle",
+    "img":"images/items/plokflag.png",
+    "codes":"Plok Flag"
+  },
+  {
+    "name":"Grandpappy journal",
+    "type":"toggle",
+    "img":"images/items/grandpappyjournal.png",
+    "codes":"Grandpappy journal"
+  },
+  {
+    "name":"Flea Pit Rope",
+    "type":"toggle",
+    "img":"images/items/fleapitrope.png",
+    "codes":"Flea Pit Rope"
+  },
+  {
+    "name":"Flashlight",
+    "type":"toggle",
+    "img":"images/items/flashlight.png",
+    "codes":"Flashlight"
+  },
+  {
+    "name":"Progressive Area Unplok",
+	"type": "consumable",
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "img":"images/items/progressiveareaunplok.png",
+    "codes":"Progressive Area Unplok"
+  },
+  {
+    "name":"Treasure",
+	"type": "consumable",
+    "max_quantity": 13,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "img":"images/items/treasure.png",
+    "codes":"Junk"
+  },
+  {
+    "name":"Fleasanity",
+    "type":"toggle",
+    "img":"images/options/fleasanity.png",
+    "codes":"Fleasanity"
+  },
+  {
+    "name":"Queen Items",
+	"type": "consumable",
+    "max_quantity": 13,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 13,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "img":"images/options/queenitems.png",
+    "codes":"Queen Items"
+  },
+  {
+    "name":"Shells",
+    "type":"toggle",
+    "img":"images/items/shells.png",
+    "codes":"Shells"
+  },
+  {
+    "name":"Extra Plife",
+    "type":"toggle",
+    "img":"images/items/extraplife.png",
+    "codes":"Extra Plife"
+  },
+  {
+    "name":"Fruit",
+    "type":"toggle",
+    "img":"images/items/fruit.png",
+    "codes":"Fruit"
+  },
+  {
+    "name":"Force Field",
+    "type":"toggle",
+    "img":"images/items/forcefield.png",
+    "codes":"Force Field"
+  },
+  {
+    "name":"Rage",
+    "type":"toggle",
+    "img":"images/items/rage.png",
+    "codes":"Rage"
+  },
+  
+  {
+    "name":"Unicycle",
+    "type":"toggle",
+    "img":"images/items/unicycle.png",
+    "codes":"Unicycle"
+  },
+  {
+    "name":"Car",
+    "type":"toggle",
+    "img":"images/items/car.png",
+    "codes":"Car"
+  },
+  {
+    "name":"Jet Booster",
+    "type":"toggle",
+    "img":"images/items/jetbooster.png",
+    "codes":"Jet Booster"
+  },
+  {
+    "name":"Motorcycle",
+    "type":"toggle",
+    "img":"images/items/motorcycle.png",
+    "codes":"Motorcycle"
+  },
+  {
+    "name":"Helicopter",
+    "type":"toggle",
+    "img":"images/items/helicopter.png",
+    "codes":"Helicopter"
+  },
+  {
+    "name":"Tank",
+    "type":"toggle",
+    "img":"images/items/tank.png",
+    "codes":"Tank"
+  },
+  {
+    "name":"UFO",
+    "type":"toggle",
+    "img":"images/items/ufo.png",
+    "codes":"UFO"
+  },
+  {
+    "name":"Springs",
+    "type":"toggle",
+    "img":"images/items/springs.png",
+    "codes":"Springs"
+  },
+  
+  {
+    "name":"Plocky Costume",
+    "type":"toggle",
+    "img":"images/items/plockycostume.png",
+    "codes":"Plocky Costume"
+  },
+  {
+    "name":"Rocketman Costume",
+    "type":"toggle",
+    "img":"images/items/rocketmancostume.png",
+    "codes":"Rocketman Costume"
+  },
+  {
+    "name":"Squire Costume",
+    "type":"toggle",
+    "img":"images/items/squirecostume.png",
+    "codes":"Squire Costume"
+  },
+  {
+    "name":"Fireman Costume",
+    "type":"toggle",
+    "img":"images/items/firemancostume.png",
+    "codes":"Fireman Costume"
+  },
+  
+  
+  {
+    "name":"Cowboy Costume",
+    "type":"toggle",
+    "img":"images/items/cowboycostume.png",
+    "codes":"Cowboy Costume"
+  },
+  {
+    "name":"Boxer Shorts",
+    "type":"toggle",
+    "img":"images/items/boxershorts.png",
+    "codes":"Boxer Shorts"
+  },
+  {
+    "name":"Scarf",
+    "type":"toggle",
+    "img":"images/items/scarf.png",
+    "codes":"Scarf"
+  },
+  {
+    "name":"Bang Flag",
+    "type":"toggle",
+    "img":"images/items/bangflag.png",
+    "codes":"Bang Flag"
+  },
+  {
+    "name":"Torn Flag",
+    "type":"toggle",
+    "img":"images/items/tornflag.png",
+    "codes":"Torn Flag"
+  },
+  {
+    "name":"Overalls",
+    "type":"toggle",
+    "img":"images/items/overalls.png",
+    "codes":"Overalls"
+  },
+  {
+    "name":"Sports Flag",
+    "type":"toggle",
+    "img":"images/items/sportsflag.png",
+    "codes":"Sports Flag"
+  },
+  {
+    "name":"Pirate Flag",
+    "type":"toggle",
+    "img":"images/items/pirateflag.png",
+    "codes":"Pirate Flag"
+  },
+  {
+    "name":"Bone",
+    "type":"toggle",
+    "img":"images/items/bone.png",
+    "codes":"Bone"
+  },
+  {
+    "name":"Carrot",
+    "type":"toggle",
+    "img":"images/items/carrot.png",
+    "codes":"Carrot"
+  },
+  {
+    "name":"Anvil",
+    "type":"toggle",
+    "img":"images/items/anvil.png",
+    "codes":"Anvil"
+  },
+  {
+    "name":"Old Boot",
+    "type":"toggle",
+    "img":"images/items/oldboot.png",
+    "codes":"Old Boot"
+  },
+  {
+    "name":"Used String",
+    "type":"toggle",
+    "img":"images/items/usedstring.png",
+    "codes":"Used String"
+  },
+  {
+    "name":"Broken Vase",
+    "type":"toggle",
+    "img":"images/items/brokenvase.png",
+    "codes":"Broken Vase"
+  },
+  
+  {
+    "name":"Unicycle Rental",
+    "type":"toggle",
+    "img":"images/items/unicyclerental.png",
+    "codes":"Unicycle Rental"
+  },
+  {
+    "name":"Car Rental",
+    "type":"toggle",
+    "img":"images/items/carrental.png",
+    "codes":"Car Rental"
+  },
+  {
+    "name":"Jet Rental",
+    "type":"toggle",
+    "img":"images/items/jetrental.png",
+    "codes":"Jet Rental"
+  },
+  {
+    "name":"Motorcycle Rental",
+    "type":"toggle",
+    "img":"images/items/motorcyclerental.png",
+    "codes":"Motorcycle Rental"
+  },
+  {
+    "name":"Helicopter Rental",
+    "type":"toggle",
+    "img":"images/items/helicopterrental.png",
+    "codes":"Helicopter Rental"
+  },
+  {
+    "name":"Tank Rental",
+    "type":"toggle",
+    "img":"images/items/tankrental.png",
+    "codes":"Tank Rental"
+  },
+  {
+    "name":"UFO Rental",
+    "type":"toggle",
+    "img":"images/items/uforental.png",
+    "codes":"UFO Rental"
+  },
+  {
+    "name":"Springs Rental",
+    "type":"toggle",
+    "img":"images/items/springsrental.png",
+    "codes":"Springs Rental"
+  },
+  {
+    "name":"Boxing Glove Rental",
+    "type":"toggle",
+    "img":"images/items/boxinggloverental.png",
+    "codes":"Boxing Glove Rental"
+  },
+  {
+    "name":"Rocket Rental",
+    "type":"toggle",
+    "img":"images/items/rocketrental.png",
+    "codes":"Rocket Rental"
+  },
+  {
+    "name":"Musket Rental",
+    "type":"toggle",
+    "img":"images/items/musketrental.png",
+    "codes":"Musket Rental"
+  },
+  {
+    "name":"Flamethrower Rental",
+    "type":"toggle",
+    "img":"images/items/flamethrowerrental.png",
+    "codes":"Flamethrower Rental"
+  },
+  {
+    "name":"Sheriff Badge Rental",
+    "type":"toggle",
+    "img":"images/items/sheriffbadgerental.png",
+    "codes":"Sheriff Badge Rental"
+  },
+  {
+    "name":"Flea Queen Dead",
+    "type":"toggle",
+    "img":"images/items/fleaqueendead.png",
+    "codes":"Flea Queen Dead"
+  }
+]

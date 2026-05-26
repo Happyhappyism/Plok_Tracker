@@ -1,0 +1,76 @@
+{
+  "shared_item_grid":{
+    "type":"array",
+    "orientation":"vertical",
+    "margin":"0,0",
+    "content":[
+      {
+        "type":"array",
+        "orientation":"horizontal",
+        "margin":"0,0",
+        "content":[
+          {
+            "type":"itemgrid",
+            "item_margin":"4, 4",
+            "h_alignment":"left",
+            "rows":[
+              [
+                "Spin Jump",
+                "Amulet",
+                "Limb",
+                "HealthUp",
+                "Hornet Capacity",
+                "Shell Capacity"
+              ],
+              [
+                "Plok Flag",
+                "Grandpappy journal",
+                "Flashlight",
+                "Flea Pit Rope",
+                "Progressive Area Unplok",
+				"Junk"
+              ],
+              [
+                "Unicycle",
+                "Car",
+                "Jet Booster",
+                "Motorcycle",
+                "Helicopter",
+                "Tank",
+                "UFO",
+                "Springs"
+              ],
+              [
+                "Plocky Costume",
+                "Rocketman Costume",
+                "Squire Costume",
+                "Fireman Costume",
+                "Cowboy Costume",
+				"Boxer Shorts",
+				"Fleasanity",
+				"Queen Items",
+              ],
+              // [
+                // "Boxer Shorts",
+                // "Scarf",
+                // "Bang Flag",
+                // "Torn Flag",
+                // "Overalls",
+                // "Sports Flag",
+                // "Pirate Flag"
+              // ],
+              // [
+                // "Bone",
+                // "Carrot",
+                // "Anvil",
+                // "Old Boot",
+                // "Used String",
+                // "Broken Vase"
+              // ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+[
+
+  {
+    "name":"Cycling Clever",
+    "access_rules":[
+      "@Flea Pit, Unicycle"
+    ],
+    "map_locations":[
+      {
+        "map":"Flea Pit",
+        "x":160,
+        "y":95
+      }
+    ],
+    "sections":[
+      {
+        "name":"FP - Cycling Clever Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Road Hogging",
+    "access_rules":[
+      "@Flea Pit, Car"
+    ],
+    "map_locations":[
+      {
+        "map":"Flea Pit",
+        "x":245,
+        "y":80
+      }
+    ],
+    "sections":[
+      {
+        "name":"FP - Road Hogging Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      },
+      {
+        "name":"FP - Road Hogging Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      }
+    ]
+  },
+  {
+    "name":"High Flying",
+    "access_rules":[
+      "@Flea Pit, Jet Booster"
+    ],
+    "map_locations":[
+      {
+        "map":"Flea Pit",
+        "x":305,
+        "y":95
+      }
+    ],
+    "sections":[
+      {
+        "name":"FP - High Flying Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      },
+      {
+        "name":"FP - High Flying Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Easy Riding",
+    "access_rules":[
+      "@Flea Pit, Motorcycle"
+    ],
+    "map_locations":[
+      {
+        "map":"Flea Pit",
+        "x":355,
+        "y":130
+      }
+    ],
+    "sections":[
+      {
+        "name":"FP - Easy Riding Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      },
+      {
+        "name":"FP - Easy Riding Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      }
+    ]
+  },
+  {
+    "name":"In A Spin",
+    "access_rules":[
+      "@Flea Pit, Helicopter"
+    ],
+    "map_locations":[
+      {
+        "map":"Flea Pit",
+        "x":335,
+        "y":165
+      }
+    ],
+    "sections":[
+      {
+        "name":"FP - In A Spin Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      },
+      {
+        "name":"FP - In A Spin Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Real Rumblings",
+    "access_rules":[
+      "@Flea Pit, Tank"
+    ],
+    "map_locations":[
+      {
+        "map":"Flea Pit",
+        "x":255,
+        "y":160
+      }
+    ],
+    "sections":[
+      {
+        "name":"FP - Real Rumblings Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Silent Running",
+    "access_rules":[
+      "@Flea Pit, UFO"
+    ],
+    "map_locations":[
+      {
+        "map":"Flea Pit",
+        "x":190,
+        "y":175
+      }
+    ],
+    "sections":[
+      {
+        "name":"FP - Silent Running Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      },
+      {
+        "name":"FP - Silent Running Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Flea Queen",
+    "access_rules":[
+      "@Flea Pit,Springs,$get_queen_requirement"
+    ],
+    "map_locations":[
+      {
+        "map":"Flea Pit",
+        "x":115,
+        "y":185
+      }
+    ],
+    "sections":[
+      {
+        "name":"FP - Flea Queen Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/bossclosed.png",
+        "chest_opened_img":"images/chest/bossopen.png"
+      }
+    ]
+  }
+]

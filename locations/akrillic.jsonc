@@ -1,0 +1,525 @@
+[
+
+  {
+    "name":"Garlen Beach",
+    "access_rules":[
+      "@Akrillic"
+    ],
+    "map_locations":[
+      {
+        "map":"Akrillic",
+        "x":75,
+        "y":135
+      }
+    ],
+    "sections":[
+      {
+        "name":"AK - Garlen Beach Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      },
+      {
+        "name":"AK - Garlen Beach Upper Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      },
+      {
+        "name":"AK - Garlen Beach Lower Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      },
+      {
+        "name":"AK - Garlen Beach Letter",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/letterclosed.png",
+        "chest_opened_img":"images/chest/letteropen.png"
+      },
+      {
+        "name":"AK - Garlen Beach Flea",
+        "item_count":"14",
+        "visibility_rules":[
+          "Fleasanity"
+        ],
+        "chest_unopened_img":"images/chest/fleaclosed.png",
+        "chest_opened_img":"images/chest/fleaopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Sleepy Dale",
+    "access_rules":[
+      "@Akrillic, Limb:3"
+    ],
+    "map_locations":[
+      {
+        "map":"Akrillic",
+        "x":105,
+        "y":75
+      }
+    ],
+    "sections":[
+      {
+        "name":"AK - Sleepy Dale Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      },
+      {
+        "name":"AK - Sleepy Dale Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      },
+      {
+        "name":"AK - Sleepy Dale Squire Gift",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/giftclosed.png",
+        "chest_opened_img":"images/chest/giftopen.png"
+      },
+      {
+        "name":"AK - Sleepy Dale Flea",
+        "item_count":"12",
+        "visibility_rules":[
+          "Fleasanity"
+        ],
+        "chest_unopened_img":"images/chest/fleaclosed.png",
+        "chest_opened_img":"images/chest/fleaopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Plok Town",
+    "access_rules":[
+      "@Akrillic"
+    ],
+    "map_locations":[
+      {
+        "map":"Akrillic",
+        "x":215,
+        "y":90
+      }
+    ],
+    "sections":[
+      {
+        "name":"AK - Plok Town Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      },
+      {
+        "name":"AK - Plok Town Left Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      },
+      {
+        "name":"AK - Plok Town Right Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      },
+      {
+        "name":"AK - Plok Town Rocketman Gift",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/giftclosed.png",
+        "chest_opened_img":"images/chest/giftopen.png"
+      },
+      {
+        "name":"AK - Plok Town Letter Basement",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/letterclosed.png",
+        "chest_opened_img":"images/chest/letteropen.png"
+      },
+      {
+        "name":"AK - Plok Town Letter Tower",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/letterclosed.png",
+        "chest_opened_img":"images/chest/letteropen.png"
+      },
+      {
+        "name":"AK - Plok Town Letter Sky",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/letterclosed.png",
+        "chest_opened_img":"images/chest/letteropen.png"
+      },
+      {
+        "name":"AK - Plok Town Flea",
+        "item_count":"10",
+        "visibility_rules":[
+          "Fleasanity"
+        ],
+        "chest_unopened_img":"images/chest/fleaclosed.png",
+        "chest_opened_img":"images/chest/fleaopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Penkinos",
+    "access_rules":[
+      "@Akrillic"
+    ],
+    "map_locations":[
+      {
+        "map":"Akrillic",
+        "x":295,
+        "y":75
+      }
+    ],
+    "sections":[
+      {
+        "name":"AK - Penkinos Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/penkinosclosed.png",
+        "chest_opened_img":"images/chest/penkinosopen.png",
+        "access_rules":[
+          "Limb"
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Venge Thicket",
+    "access_rules":[
+      "@Akrillic, Limb:2"
+    ],
+    "map_locations":[
+      {
+        "map":"Akrillic",
+        "x":265,
+        "y":120
+      }
+    ],
+    "sections":[
+      {
+        "name":"AK - Venge Thicket Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      },
+      {
+        "name":"AK - Venge Thicket Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      },
+      {
+        "name":"AK - Venge Thicket Plocky Gift",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/giftclosed.png",
+        "chest_opened_img":"images/chest/giftopen.png"
+      },
+      {
+        "name":"AK - Venge Thicket Rocketman Gift",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/giftclosed.png",
+        "chest_opened_img":"images/chest/giftopen.png"
+      },
+      {
+        "name":"AK - Venge Thicket Flea",
+        "item_count":"10",
+        "visibility_rules":[
+          "Fleasanity"
+        ],
+        "chest_unopened_img":"images/chest/fleaclosed.png",
+        "chest_opened_img":"images/chest/fleaopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Dreamy Cove",
+    "access_rules":[
+      "@Akrillic"
+    ],
+    "map_locations":[
+      {
+        "map":"Akrillic",
+        "x":170,
+        "y":150
+      }
+    ],
+    "sections":[
+      {
+        "name":"AK - Dreamy Cove Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      },
+      {
+        "name":"AK - Dreamy Cove Warp",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/warpclosed.png",
+        "chest_opened_img":"images/chest/warpopen.png",
+        "access_rules":[
+          "Unicycle,Fireman Costume"
+        ]
+      },
+      {
+        "name":"AK - Dreamy Cove Middle Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      },
+      {
+        "name":"AK - Dreamy Cove Left Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      },
+      {
+        "name":"AK - Dreamy Cove Right Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      },
+      {
+        "name":"AK - Dreamy Cove Flamethrower Gift",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/giftclosed.png",
+        "chest_opened_img":"images/chest/giftopen.png"
+      },
+      {
+        "name":"AK - Dreamy Cove Flea",
+        "item_count":"15",
+        "visibility_rules":[
+          "Fleasanity"
+        ],
+        "chest_unopened_img":"images/chest/fleaclosed.png",
+        "chest_opened_img":"images/chest/fleaopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Creepy Forest",
+    "access_rules":[
+      "@Akrillic Cave"
+    ],
+    "map_locations":[
+      {
+        "map":"Akrillic",
+        "x":235,
+        "y":150
+      }
+    ],
+    "sections":[
+      {
+        "name":"AK - Creepy Forest Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      },
+      {
+        "name":"AK - Creepy Forest Flamethrower Gift",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/giftclosed.png",
+        "chest_opened_img":"images/chest/giftopen.png"
+      },
+      {
+        "name":"AK - Creepy Forest Rocketman Gift",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/giftclosed.png",
+        "chest_opened_img":"images/chest/giftopen.png"
+      },
+      {
+        "name":"AK - Creepy Forest Left Letter",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/letterclosed.png",
+        "chest_opened_img":"images/chest/letteropen.png"
+      },
+      {
+        "name":"AK - Creepy Forest Right Letter",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/letterclosed.png",
+        "chest_opened_img":"images/chest/letteropen.png"
+      },
+      {
+        "name":"AK - Creepy Forest Flea",
+        "item_count":"14",
+        "visibility_rules":[
+          "Fleasanity"
+        ],
+        "chest_unopened_img":"images/chest/fleaclosed.png",
+        "chest_opened_img":"images/chest/fleaopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Womack Spider",
+    "access_rules":[
+      "@Akrillic Cave"
+    ],
+    "map_locations":[
+      {
+        "map":"Akrillic",
+        "x":315,
+        "y":115
+      }
+    ],
+    "sections":[
+      {
+        "name":"AK - Womack Spider Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/womackspiderclosed.png",
+        "chest_opened_img":"images/chest/womackspideropen.png",
+        "access_rules":[
+          "Limb"
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Creepy Crag",
+    "access_rules":[
+      "@Akrillic Cave, Limb:3"
+    ],
+    "map_locations":[
+      {
+        "map":"Akrillic",
+        "x":345,
+        "y":155
+      }
+    ],
+    "sections":[
+      {
+        "name":"AK - Creepy Crag Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      },
+      {
+        "name":"AK - Creepy Crag Flamethrower Gift",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/giftclosed.png",
+        "chest_opened_img":"images/chest/giftopen.png"
+      },
+      {
+        "name":"AK - Creepy Crag Cowboy Gift",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/giftclosed.png",
+        "chest_opened_img":"images/chest/giftopen.png"
+      },
+      {
+        "name":"AK - Creepy Crag Letter",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/letterclosed.png",
+        "chest_opened_img":"images/chest/letteropen.png"
+      },
+      {
+        "name":"AK - Creepy Crag Flea",
+        "item_count":"11",
+        "visibility_rules":[
+          "Fleasanity"
+        ],
+        "chest_unopened_img":"images/chest/fleaclosed.png",
+        "chest_opened_img":"images/chest/fleaopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Gohome Cavern",
+    "access_rules":[
+      "@Akrillic Cave, Limb:3"
+    ],
+    "map_locations":[
+      {
+        "map":"Akrillic",
+        "x":395,
+        "y":135
+      }
+    ],
+    "sections":[
+      {
+        "name":"AK - Gohome Cavern Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      },
+      {
+        "name":"AK - Gohome Cavern Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      },
+      {
+        "name":"AK - Gohome Cavern Flea",
+        "item_count":"14",
+        "visibility_rules":[
+          "Fleasanity"
+        ],
+        "chest_unopened_img":"images/chest/fleaclosed.png",
+        "chest_opened_img":"images/chest/fleaopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Crashing Rocks",
+    "access_rules":[
+      "@Akrillic Cave"
+    ],
+    "map_locations":[
+      {
+        "map":"Akrillic",
+        "x":455,
+        "y":135
+      }
+    ],
+    "sections":[
+      {
+        "name":"AK - Crashing Rocks Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      },
+      {
+        "name":"AK - Crashing Rocks Warp",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/warpclosed.png",
+        "chest_opened_img":"images/chest/warpopen.png",
+        "access_rules":[
+          "Motorcycle"
+        ]
+      },
+      {
+        "name":"AK - Crashing Rocks Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      },
+      {
+        "name":"AK - Crashing Rocks Flea",
+        "item_count":"8",
+        "visibility_rules":[
+          "Fleasanity"
+        ],
+        "chest_unopened_img":"images/chest/fleaclosed.png",
+        "chest_opened_img":"images/chest/fleaopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Rockyfella",
+    "access_rules":[
+      "@Akrillic Cave"
+    ],
+    "map_locations":[
+      {
+        "map":"Akrillic",
+        "x":410,
+        "y":180
+      }
+    ],
+    "sections":[
+      {
+        "name":"AK - Rockyfella Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/rockyfellaclosed.png",
+        "chest_opened_img":"images/chest/rockyfellaopen.png",
+        "access_rules":[
+          "Limb"
+        ]
+      }
+    ]
+  }
+]

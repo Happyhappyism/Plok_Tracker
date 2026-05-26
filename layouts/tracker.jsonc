@@ -1,0 +1,71 @@
+{
+  //sets the trackers layout
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#layouts
+  "tracker_default": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "bottom",
+          "v_alignment": "stretch",
+          "content": [
+            {
+              "type": "group",
+              "header": "Items",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "shared_item_grid"
+              }
+            }
+          ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Cotton Island",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Cotton Island",
+                ]
+              }
+            },
+			{
+              "title": "Akrillic",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Akrillic",
+                ]
+              }
+            },
+			{
+              "title": "Legacy Island",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Legacy Island",
+                ]
+              }
+            },
+			{
+              "title": "Flea Pit",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Flea Pit",
+                ]
+              }
+            },
+          ]
+        }
+      ]
+    }
+  }
+}

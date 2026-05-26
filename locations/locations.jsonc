@@ -1,0 +1,35 @@
+[
+  {
+    "name":"Menu"
+  },
+  {
+    "name":"Cotton Island"
+  },
+  {
+    "name":"Akrillic",
+    "access_rules":[
+      "@Cotton Island, Plok Flag, Spin Jump, [HealthUp]",
+      "@Cotton Island, Progressive Area Unplok, Spin Jump, [HealthUp]"
+    ]
+  },
+  {
+    "name":"Akrillic Cave",
+    "access_rules":[
+      "@Akrillic, Flashlight, [HealthUp:4]",
+      "@Akrillic, Progressive Area Unplok:2, [HealthUp:4]"
+    ]
+  },
+  {
+    "name":"Legacy Island",
+    "access_rules":[
+      "@Akrillic, Grandpappy journal, [HealthUp:2]"
+    ]
+  },
+  {
+    "name":"Flea Pit",
+    "access_rules":[
+      "@Akrillic Cave, Flea Pit Rope, Spin Jump, [HealthUp:5]",
+      "@Akrillic Cave, Progressive Area Unplok:3, Spin Jump, [HealthUp:5]"
+    ]
+  }
+]

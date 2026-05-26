@@ -1,0 +1,226 @@
+[
+  {
+    "name":"Mace Cove",
+    "access_rules":[
+      "@Legacy Island"
+    ],
+    "map_locations":[
+      {
+        "map":"Legacy Island",
+        "x":135,
+        "y":125
+      }
+    ],
+    "sections":[
+      {
+        "name":"LI - Mace Cove Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Fools Gap",
+    "access_rules":[
+      "@Legacy Island"
+    ],
+    "map_locations":[
+      {
+        "map":"Legacy Island",
+        "x":90,
+        "y":110
+      }
+    ],
+    "sections":[
+      {
+        "name":"LI - Fools Gap Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png",
+        "access_rules":[
+          "Spin Jump"
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Zig Zag",
+    "access_rules":[
+      "@Legacy Island"
+    ],
+    "map_locations":[
+      {
+        "map":"Legacy Island",
+        "x":90,
+        "y":60
+      }
+    ],
+    "sections":[
+      {
+        "name":"LI - Zig Zag Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png",
+        "access_rules":[
+          "Spin Jump"
+        ]
+      },
+      {
+        "name":"LI - Zig Zag Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png",
+        "access_rules":[
+          "Spin Jump"
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Sponge Rock",
+    "access_rules":[
+      "@Legacy Island"
+    ],
+    "map_locations":[
+      {
+        "map":"Legacy Island",
+        "x":135,
+        "y":45
+      }
+    ],
+    "sections":[
+      {
+        "name":"LI - Sponge Rock Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png",
+        "access_rules":[
+          "Spin Jump",
+          "HealthUp:2"
+        ]
+      },
+      {
+        "name":"LI - Sponge Rock Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Swifty Peaks",
+    "access_rules":[
+      "@Legacy Island"
+    ],
+    "map_locations":[
+      {
+        "map":"Legacy Island",
+        "x":185,
+        "y":65
+      }
+    ],
+    "sections":[
+      {
+        "name":"LI - Swifty Peaks Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png",
+        "access_rules":[
+          "Spin Jump"
+        ]
+      },
+      {
+        "name":"LI - Swifty Peaks Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png",
+        "access_rules":[
+          "HealthUp",
+          "Spin Jump"
+        ]
+      }
+    ]
+  },
+  {
+    "name":"Log Trail",
+    "access_rules":[
+      "@Legacy Island"
+    ],
+    "map_locations":[
+      {
+        "map":"Legacy Island",
+        "x":235,
+        "y":65
+      }
+    ],
+    "sections":[
+      {
+        "name":"LI - Log Trail Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png"
+      },
+      {
+        "name":"LI - Log Trail Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png"
+      }
+    ]
+  },
+  {
+    "name":"Crouch Hill",
+    "access_rules":[
+      "@Legacy Island"
+    ],
+    "map_locations":[
+      {
+        "map":"Legacy Island",
+        "x":265,
+        "y":125
+      }
+    ],
+    "sections":[
+      {
+        "name":"LI - Crouch Hill Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/clearclosed.png",
+        "chest_opened_img":"images/chest/clearopen.png",
+        "access_rules":[
+          "Spin Jump"
+        ]
+      },
+      {
+        "name":"LI - Crouch Hill Fruit",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/fruitclosed.png",
+        "chest_opened_img":"images/chest/fruitopen.png",
+        "access_rules":[
+          "Spin Jump"
+        ]
+      }
+    ]
+  },
+  {
+    "name":"LI Bobbins Bros",
+    "access_rules":[
+      "@Legacy Island"
+    ],
+    "map_locations":[
+      {
+        "map":"Legacy Island",
+        "x":200,
+        "y":110
+      }
+    ],
+    "sections":[
+      {
+        "name":"LI - Bobbins Bros Clear",
+        "item_count":1,
+        "chest_unopened_img":"images/chest/bossclosed.png",
+        "chest_opened_img":"images/chest/bossopen.png"
+      }
+    ]
+  }
+]
