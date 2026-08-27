@@ -78,6 +78,11 @@
         "map":"Cotton Island",
         "x":210,
         "y":75
+      },
+	  {
+        "map":"Cotton Island",
+        "x":210,
+        "y":85
       }
     ],
     "sections":[
